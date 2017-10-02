@@ -1,3 +1,3 @@
 # timerbean
 
-Just a test how to convert Java in Kotlin on Java EE
+Just a test how to convert Java to Kotlin on Java EE
