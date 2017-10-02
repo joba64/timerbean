@@ -1,0 +1,5 @@
+rootProject.name = 'timerbeans'
+include 'java-timerbean'
+include 'kotlin-timerbean'
+include 'client'
+

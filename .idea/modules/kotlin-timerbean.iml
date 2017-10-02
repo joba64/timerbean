@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":kotlin-timerbean" external.linked.project.path="$MODULE_DIR$/../../kotlin-timerbean" external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="de.brainwork" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../kotlin-timerbean">
+      <excludeFolder url="file://$MODULE_DIR$/../../kotlin-timerbean/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../kotlin-timerbean/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../kotlin-timerbean/out" />
+    </content>
+    <orderEntry type="jdk" jdkName="9" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

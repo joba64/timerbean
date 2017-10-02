@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":client:main" external.linked.project.path="$MODULE_DIR$/../../../client" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="de.brainwork" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="WebServicesClient" name="WebServices Client">
+      <configuration ws.engine="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../client/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../client/src/generated">
+      <sourceFolder url="file://$MODULE_DIR$/../../../client/src/generated/jaxws" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../client/src/generated/xjc" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../client/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../client/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../client/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.sun.xml.ws:jaxws-tools:pom:2.3.0" level="project" />
+  </component>
+</module>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sun.xml.ws:jaxws-tools:pom:2.3.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.ws/jaxws-tools/2.3.0/80029c3e071be549fbde3a6800e883e58320f045/jaxws-tools-2.3.0.pom" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.ws/jaxws-tools/2.3.0/69a57e9d755bfcf31d0f070cf1ffd8dc61c543dc/jaxws-tools-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

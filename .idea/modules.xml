@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/client/client_main.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/client/client_test.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-timerbean.iml" filepath="$PROJECT_DIR$/.idea/modules/java-timerbean.iml" group="java-timerbean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-timerbean/java-timerbean_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-timerbean/java-timerbean_main.iml" group="java-timerbean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-timerbean/java-timerbean_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-timerbean/java-timerbean_test.iml" group="java-timerbean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-timerbean.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-timerbean.iml" group="kotlin-timerbean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-timerbean/kotlin-timerbean_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-timerbean/kotlin-timerbean_main.iml" group="kotlin-timerbean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-timerbean/kotlin-timerbean_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-timerbean/kotlin-timerbean_test.iml" group="kotlin-timerbean" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/timerbeans.iml" filepath="$PROJECT_DIR$/.idea/modules/timerbeans.iml" />
+    </modules>
+  </component>
+</project>
